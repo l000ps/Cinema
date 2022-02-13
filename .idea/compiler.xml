@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Cinema_Room_Manager-task" target="17" />
+      <module name="Cinema_Room_Manager-task-build-classes-java" target="17" />
+      <module name="Cinema_Room_Manager-task-build-classes-java_main" target="11" />
+      <module name="Cinema_Room_Manager-task-build-classes-java_test" target="17" />
+      <module name="Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java" target="17" />
+      <module name="Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java_main" target="11" />
+      <module name="Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java_test" target="17" />
+      <module name="Cinema_Room_Manager-task-build-generated-sources-headers-java" target="17" />
+      <module name="Cinema_Room_Manager-task-build-generated-sources-headers-java_main" target="11" />
+      <module name="Cinema_Room_Manager-task-build-generated-sources-headers-java_test" target="17" />
+      <module name="Cinema_Room_Manager-task-build-reports-tests" target="17" />
+      <module name="Cinema_Room_Manager-task-build-reports-tests_main" target="11" />
+      <module name="Cinema_Room_Manager-task-build-reports-tests_test" target="17" />
+      <module name="Cinema_Room_Manager-task-build-test-results" target="17" />
+      <module name="Cinema_Room_Manager-task-build-test-results_main" target="11" />
+      <module name="Cinema_Room_Manager-task-build-test-results_test" target="17" />
+      <module name="Cinema_Room_Manager-task-build-tmp" target="17" />
+      <module name="Cinema_Room_Manager-task-build-tmp_main" target="11" />
+      <module name="Cinema_Room_Manager-task-build-tmp_test" target="17" />
+      <module name="Cinema_Room_Manager-task_main" target="11" />
+      <module name="Cinema_Room_Manager-task_test" target="17" />
+      <module name="Problems-Avoid_division_by_zero" target="17" />
+      <module name="Problems-Avoid_division_by_zero_main" target="11" />
+      <module name="Problems-Avoid_division_by_zero_test" target="17" />
+      <module name="Problems-Avoid_NPE" target="17" />
+      <module name="Problems-Avoid_NPE_main" target="11" />
+      <module name="Problems-Avoid_NPE_test" target="17" />
+      <module name="Problems-Avoid_NPE_with_strings" target="17" />
+      <module name="Problems-Avoid_NPE_with_strings_main" target="11" />
+      <module name="Problems-Avoid_NPE_with_strings_test" target="17" />
+      <module name="Problems-Out_of_bounds_" target="17" />
+      <module name="Problems-Out_of_bounds__main" target="11" />
+      <module name="Problems-Out_of_bounds__test" target="17" />
+      <module name="Problems-Return_empty_string_when_argument_is_null" target="17" />
+      <module name="Problems-Return_empty_string_when_argument_is_null_main" target="11" />
+      <module name="Problems-Return_empty_string_when_argument_is_null_test" target="17" />
+      <module name="Problems-Unknown_input" target="17" />
+      <module name="Problems-Unknown_input_main" target="11" />
+      <module name="Problems-Unknown_input_test" target="17" />
+      <module name="util" target="17" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
